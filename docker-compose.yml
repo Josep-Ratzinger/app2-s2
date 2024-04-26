@@ -9,3 +9,7 @@
      build: ./websimple
      ports:
        - 8080:80
+   webbonita:
+     build: ./webbonita
+     ports:
+       - 8081:80
